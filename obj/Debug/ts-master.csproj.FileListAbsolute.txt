@@ -1,0 +1,6 @@
+C:\Users\zak\Desktop\Phaser\ts-master\bin\ts-master.dll.config
+C:\Users\zak\Desktop\Phaser\ts-master\bin\ts-master.dll
+C:\Users\zak\Desktop\Phaser\ts-master\bin\ts-master.pdb
+C:\Users\zak\Desktop\Phaser\ts-master\obj\Debug\ts-master.csprojResolveAssemblyReference.cache
+C:\Users\zak\Desktop\Phaser\ts-master\obj\Debug\ts-master.dll
+C:\Users\zak\Desktop\Phaser\ts-master\obj\Debug\ts-master.pdb
